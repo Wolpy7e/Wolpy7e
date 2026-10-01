@@ -194,7 +194,7 @@
 <!-- Footer Decoration / Divider -->
 <p align="center">
   <img
-    src="./assets/Footer_Divider.png"
+    src="#"
     alt="Footer Steampunk Magic"
     width="100%"
     style="max-width: 1200px; height: auto; image-rendering: pixelated; image-rendering: crisp-edges;"
