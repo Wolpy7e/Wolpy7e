@@ -1,7 +1,7 @@
 <div align="center" style="position: relative; max-width: 1200px; margin: 0 auto;">
   <!-- Header / Hero Banner -->
   <img
-    src="#"
+    src="./assets/Header.png"
     alt="Wolpy Profile Banner"
     width="100%"
     style="display: block; height: auto; image-rendering: pixelated; image-rendering: crisp-edges;"
