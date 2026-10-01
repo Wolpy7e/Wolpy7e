@@ -6,23 +6,6 @@
     width="100%"
     style="display: block; height: auto; image-rendering: pixelated; image-rendering: crisp-edges;"
   />
-
-  <!-- Container Teks (Sudah Digeser Turun ke 53%) -->
-  <div style="position: absolute; top: 53%; left: 50%; transform: translate(-50%, -50%); width: 80%; text-align: center;">
-    <h2 align="center" style="
-      background: linear-gradient(180deg, #ff9900 0%, #ff3300 60%, #990000 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-family: 'Trebuchet MS', 'Courier New', monospace; 
-      letter-spacing: 5px; 
-      font-size: 30px; 
-      font-weight: bold;
-      filter: drop-shadow(2px 2px 0px #1a0000) drop-shadow(0px 0px 10px rgba(255, 69, 0, 0.8));
-      margin: 0;
-    ">
-      《◈ 𝓦𝓞𝓛𝓟𝓨 ◈》
-    </h2>
-  </div>
 </div>
 
 <p align="center">
